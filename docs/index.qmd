@@ -1,5 +1,5 @@
 ---
-title: "Lancet_RACING"
+title: "Jama_LODESTAR"
 author: "Jihee Han"
 format:
   revealjs:
@@ -15,8 +15,10 @@ date: last-modified
 ## Introduction
 ### Objective
 - To assess whether a treat-to-target strategy is noninferior to a strategy of high-intensity statins for long-term clinical outcomes in patients with coronary artery disease
+
 ### Study Design
 - Investigator-initiated, Open-label, Randomized, Multicenter, Noninferiority trial
+
 ### Participants
 - Patients with clinically diagnosed CAD
 
@@ -24,6 +26,9 @@ date: last-modified
 ### Randomization and Study Procedures
 - 1:1 randomized in treat-to-target strategy or high-intensity strategy group
 - each group 1:1 randomized in rosuvastatin or atorvastatin
+
+## Methods
+### Randomization and Study Procedures
 ![participants](jama_lodestar_figs/jama_lodestar_fig1.png)
 ## Methods
 ### Randomization and Study Procedures
@@ -43,16 +48,23 @@ date: last-modified
 ## Methods
 ### End Point
 - **Primary endpoint**: major adverse cardiac and cerebrovascular events defubed as a composite of all-cause death(cardiovascular or not), MI, stroke, and any coronary revascularization at 3 years
+:::: {.columns}
+
+::: {.column width = "50%"}
 - **Secondary endpoint**
   (1) occurance of new-onset diabetes
   (2) hospitalization due to heart failure
   (3) deep vein thrombosis or pulmonary thromnoemnolism
   (4) endovascular revasculatization for perepheral artery disease
+:::
+
+::: {.column width = "50%"}
   (5) aortic intervention or surgery
   (6) end-stage kidney disease
   (7) discontinuation of study drugs due to intolerance
   (8) cataract operation
   (9) composite of laboratory abnormalities
+:::
 
 ## Methods
 ### Sample Size Calculation
@@ -104,11 +116,13 @@ date: last-modified
 
 ## Results
 ### Primary Endpoint
-::::{.columns}
-:::{.column width = "40%"}
+:::: {.columns}
+
+::: {.column width = "40%"}
 ![tb2](jama_lodestar_figs/jama_lodestar_tb2.png)
 :::
-:::{.column width = "50%"}
+
+::: {.column width = "50%"}
 ![fig3b](jama_lodestar_figs/jama_lodestar_fig3b.png)
 :::
 
