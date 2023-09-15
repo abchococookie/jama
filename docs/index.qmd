@@ -184,4 +184,3 @@ knitr::kable(df)
 ## Discussion{.smaller}
 #### Conclusion
 - **treat-to-target LDL-C strategy of 50 to 70 mg/dL as the goal was NI to high-intensity statin therapy** for the 3 year composite of death, MI, stroke or coronary revascularization
-
