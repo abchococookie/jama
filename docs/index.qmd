@@ -9,7 +9,6 @@ format:
 editor: source
 logo: zarathu_logo.png
 date: last-modified
-fontsize: 10pt
 ---
 
 ## Introduction
@@ -33,6 +32,7 @@ fontsize: 10pt
 ## Methods
 ### Randomization and Study Procedures
 ![participants](jama_lodestar_figs/jama_lodestar_fig1.png)
+
 ## Methods
 ### Randomization and Study Procedures
 - high or moderate intensity according to the guideline for the treatment of blood cholesterol
@@ -132,6 +132,8 @@ fontsize: 10pt
 ::: {.column width = "50%"}
 ![fig3b](jama_lodestar_figs/jama_lodestar_fig3b.png)
 :::
+
+::::
 
 ## Results
 ### Primary Endpoint
