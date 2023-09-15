@@ -4,9 +4,12 @@ author: "Jihee Han"
 format:
   revealjs:
     theme: default
+    smaller: true
+    scrollable: true
 editor: source
 logo: zarathu_logo.png
 date: last-modified
+fontsize: 10pt
 ---
 
 ## Introduction
@@ -48,6 +51,7 @@ date: last-modified
 ## Methods
 ### End Point
 - **Primary endpoint**: major adverse cardiac and cerebrovascular events defubed as a composite of all-cause death(cardiovascular or not), MI, stroke, and any coronary revascularization at 3 years
+
 :::: {.columns}
 
 ::: {.column width = "50%"}
@@ -65,6 +69,8 @@ date: last-modified
   (8) cataract operation
   (9) composite of laboratory abnormalities
 :::
+
+::::
 
 ## Methods
 ### Sample Size Calculation
@@ -116,6 +122,7 @@ date: last-modified
 
 ## Results
 ### Primary Endpoint
+
 :::: {.columns}
 
 ::: {.column width = "40%"}
