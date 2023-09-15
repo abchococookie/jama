@@ -7,7 +7,6 @@ format:
 editor: source
 logo: zarathu_logo.png
 date: last-modified
-fontsize: 8pt
 ---
 
 ## Introduction
@@ -118,6 +117,7 @@ knitr::kable(df)
 #### Base
 
 ::: {.panel-tabset}
+
 ### figure
 ![](jama_lodestar_figs/jama_lodestar_fig2b.png){.scrollable}
 
@@ -176,7 +176,7 @@ knitr::kable(df)
 #### Limitations
 1. open-label
 2. lower event rates than anticipated
-3. small num of events -> domparison of individual clinical outcomes within the primary endpoint was difficult
+3. small num of events -> comparison of individual clinical outcomes within the primary endpoint was difficult
 4. recruited exclusively patients with CAD -> other subsets of patients(e.g., prevention)
 5. 60% of treat-to-target group achieved below 70mg/dL -> add-on therapy should be considered
 6. 3 years -> relatively short to reflect longer-term effects of 2 strategies
@@ -184,3 +184,4 @@ knitr::kable(df)
 ## Discussion{.smaller}
 #### Conclusion
 - **treat-to-target LDL-C strategy of 50 to 70 mg/dL as the goal was NI to high-intensity statin therapy** for the 3 year composite of death, MI, stroke or coronary revascularization
+
